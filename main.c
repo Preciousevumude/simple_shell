@@ -84,4 +84,4 @@ int main(int ac, char **av)
 		return (255);
 
 	return (datash.status);
-i}
+}
